@@ -1,0 +1,37 @@
+{
+    "todo":[
+        {
+            "id":1,
+            "task": "DSA sprint 2 contests",
+            "finished": "false",
+            "startTime":{
+                "time": "14:42",
+                "date": "03/12"
+            },
+            "finishTime":""
+        },
+        {
+            "id":2,
+            "task": "Finding indian sattelite dataset",
+            "finished": "true",
+            "startTime":{
+                "time": "14:42",
+                "date": "04/11"
+            },
+            "finishTime":{
+                "time": "23:42",
+                "date": "30/11"
+            }
+        },
+        {
+            "id":1,
+            "task": "Iron the formals",
+            "finished": "false",
+            "startTime":{
+                "time": "14:42",
+                "date": "03/12"
+            },
+            "finishTime":""
+        }
+    ]
+}
