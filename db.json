@@ -92,5 +92,456 @@
     },
     "id": 8
   }
-]
+],
+    "employee_records":[{
+  "id": 1,
+  "name": "Bobbee Cure",
+  "age": 63,
+  "isMarried": false,
+  "address": "58 Loomis Park",
+  "department": "Human Resources",
+  "salary": 153903,
+  "avatar": "https://robohash.org/quasiprovidentminus.png?size=50x50&set=set1"
+}, {
+  "id": 2,
+  "name": "Sunshine Hedge",
+  "age": 27,
+  "isMarried": false,
+  "address": "78920 Elmside Plaza",
+  "department": "Sales",
+  "salary": 714762,
+  "avatar": "https://robohash.org/ipsumhicipsa.png?size=50x50&set=set1"
+}, {
+  "id": 3,
+  "name": "Hali Loges",
+  "age": 87,
+  "isMarried": true,
+  "address": "7 Thompson Point",
+  "department": "Support",
+  "salary": 1201961,
+  "avatar": "https://robohash.org/odiorerumin.png?size=50x50&set=set1"
+}, {
+  "id": 4,
+  "name": "Paige Fleming",
+  "age": 28,
+  "isMarried": true,
+  "address": "5329 Arkansas Junction",
+  "department": "Engineering",
+  "salary": 2746438,
+  "avatar": "https://robohash.org/adestimpedit.png?size=50x50&set=set1"
+}, {
+  "id": 5,
+  "name": "Agosto Frediani",
+  "age": 58,
+  "isMarried": false,
+  "address": "1947 4th Crossing",
+  "department": "Product Management",
+  "salary": 2882112,
+  "avatar": "https://robohash.org/porroeumaut.png?size=50x50&set=set1"
+}, {
+  "id": 6,
+  "name": "Genna Dreschler",
+  "age": 97,
+  "isMarried": true,
+  "address": "1 Thackeray Parkway",
+  "department": "Sales",
+  "salary": 4401170,
+  "avatar": "https://robohash.org/quosinsed.png?size=50x50&set=set1"
+}, {
+  "id": 7,
+  "name": "Blondy Bridgewood",
+  "age": 62,
+  "isMarried": true,
+  "address": "816 Kinsman Park",
+  "department": "Research and Development",
+  "salary": 4750388,
+  "avatar": "https://robohash.org/porrovelitnostrum.png?size=50x50&set=set1"
+}, {
+  "id": 8,
+  "name": "Trixie Sirey",
+  "age": 58,
+  "isMarried": true,
+  "address": "3 Charing Cross Circle",
+  "department": "Accounting",
+  "salary": 2966255,
+  "avatar": "https://robohash.org/voluptatesquiaut.png?size=50x50&set=set1"
+}, {
+  "id": 9,
+  "name": "Renard McCombe",
+  "age": 48,
+  "isMarried": true,
+  "address": "7641 Truax Park",
+  "department": "Training",
+  "salary": 2220639,
+  "avatar": "https://robohash.org/minusvoluptasassumenda.png?size=50x50&set=set1"
+}, {
+  "id": 10,
+  "name": "Lian Blesdill",
+  "age": 84,
+  "isMarried": false,
+  "address": "9 Debra Crossing",
+  "department": "Marketing",
+  "salary": 583727,
+  "avatar": "https://robohash.org/facilisetaccusantium.png?size=50x50&set=set1"
+}, {
+  "id": 11,
+  "name": "Harp Idiens",
+  "age": 48,
+  "isMarried": true,
+  "address": "322 Ohio Parkway",
+  "department": "Training",
+  "salary": 2216673,
+  "avatar": "https://robohash.org/autemsuntullam.png?size=50x50&set=set1"
+}, {
+  "id": 12,
+  "name": "Carmelita Cockaday",
+  "age": 36,
+  "isMarried": false,
+  "address": "4238 Vidon Hill",
+  "department": "Business Development",
+  "salary": 3429811,
+  "avatar": "https://robohash.org/autteneturnemo.png?size=50x50&set=set1"
+}, {
+  "id": 13,
+  "name": "Hirsch Rodder",
+  "age": 65,
+  "isMarried": false,
+  "address": "248 Kings Avenue",
+  "department": "Human Resources",
+  "salary": 4541858,
+  "avatar": "https://robohash.org/explicabositmodi.png?size=50x50&set=set1"
+}, {
+  "id": 14,
+  "name": "Gard Wayne",
+  "age": 21,
+  "isMarried": true,
+  "address": "849 Park Meadow Hill",
+  "department": "Accounting",
+  "salary": 2966379,
+  "avatar": "https://robohash.org/consequaturbeataeaut.png?size=50x50&set=set1"
+}, {
+  "id": 15,
+  "name": "Kelly Ramstead",
+  "age": 20,
+  "isMarried": false,
+  "address": "8612 Briar Crest Point",
+  "department": "Business Development",
+  "salary": 1095792,
+  "avatar": "https://robohash.org/sapientebeataesequi.png?size=50x50&set=set1"
+}, {
+  "id": 16,
+  "name": "Noella Plaice",
+  "age": 84,
+  "isMarried": false,
+  "address": "16198 Judy Alley",
+  "department": "Sales",
+  "salary": 854533,
+  "avatar": "https://robohash.org/enimlaboriosamveniam.png?size=50x50&set=set1"
+}, {
+  "id": 17,
+  "name": "Ella Tilley",
+  "age": 29,
+  "isMarried": false,
+  "address": "0 Scoville Avenue",
+  "department": "Support",
+  "salary": 2230500,
+  "avatar": "https://robohash.org/sitestnam.png?size=50x50&set=set1"
+}, {
+  "id": 18,
+  "name": "Pauletta Seal",
+  "age": 47,
+  "isMarried": false,
+  "address": "220 Spenser Way",
+  "department": "Engineering",
+  "salary": 395959,
+  "avatar": "https://robohash.org/autasperioreset.png?size=50x50&set=set1"
+}, {
+  "id": 19,
+  "name": "Gearard Overall",
+  "age": 91,
+  "isMarried": false,
+  "address": "56 Debra Park",
+  "department": "Human Resources",
+  "salary": 3312749,
+  "avatar": "https://robohash.org/idutet.png?size=50x50&set=set1"
+}, {
+  "id": 20,
+  "name": "Julienne MacGahy",
+  "age": 91,
+  "isMarried": true,
+  "address": "892 Annamark Center",
+  "department": "Sales",
+  "salary": 1750890,
+  "avatar": "https://robohash.org/assumendaidpraesentium.png?size=50x50&set=set1"
+}, {
+  "id": 21,
+  "name": "Tonye Danielkiewicz",
+  "age": 28,
+  "isMarried": true,
+  "address": "0 Algoma Trail",
+  "department": "Engineering",
+  "salary": 1714977,
+  "avatar": "https://robohash.org/utnatussoluta.png?size=50x50&set=set1"
+}, {
+  "id": 22,
+  "name": "Donny Twaits",
+  "age": 69,
+  "isMarried": false,
+  "address": "0382 Milwaukee Plaza",
+  "department": "Research and Development",
+  "salary": 3739864,
+  "avatar": "https://robohash.org/nulladeseruntreprehenderit.png?size=50x50&set=set1"
+}, {
+  "id": 23,
+  "name": "Selinda Fellman",
+  "age": 91,
+  "isMarried": true,
+  "address": "34553 Delaware Hill",
+  "department": "Support",
+  "salary": 2566426,
+  "avatar": "https://robohash.org/sitaliasqui.png?size=50x50&set=set1"
+}, {
+  "id": 24,
+  "name": "Regina Michell",
+  "age": 55,
+  "isMarried": false,
+  "address": "9079 Pennsylvania Crossing",
+  "department": "Engineering",
+  "salary": 3116355,
+  "avatar": "https://robohash.org/eligendiquaevoluptate.png?size=50x50&set=set1"
+}, {
+  "id": 25,
+  "name": "Rodina Kilminster",
+  "age": 93,
+  "isMarried": true,
+  "address": "9812 Russell Avenue",
+  "department": "Business Development",
+  "salary": 1174451,
+  "avatar": "https://robohash.org/consequaturquaeconsequatur.png?size=50x50&set=set1"
+}, {
+  "id": 26,
+  "name": "Ulrike Snowsill",
+  "age": 66,
+  "isMarried": true,
+  "address": "023 Bunting Lane",
+  "department": "Training",
+  "salary": 2068652,
+  "avatar": "https://robohash.org/maximepraesentiummolestias.png?size=50x50&set=set1"
+}, {
+  "id": 27,
+  "name": "Elinore Lenham",
+  "age": 95,
+  "isMarried": true,
+  "address": "9814 Bunker Hill Place",
+  "department": "Marketing",
+  "salary": 2061473,
+  "avatar": "https://robohash.org/delectusnostrumquia.png?size=50x50&set=set1"
+}, {
+  "id": 28,
+  "name": "Rance Tamblingson",
+  "age": 75,
+  "isMarried": false,
+  "address": "2 Little Fleur Way",
+  "department": "Services",
+  "salary": 3207239,
+  "avatar": "https://robohash.org/hicdignissimosperspiciatis.png?size=50x50&set=set1"
+}, {
+  "id": 29,
+  "name": "Juli Wick",
+  "age": 48,
+  "isMarried": true,
+  "address": "77 Lakewood Avenue",
+  "department": "Engineering",
+  "salary": 1141267,
+  "avatar": "https://robohash.org/consequaturautrerum.png?size=50x50&set=set1"
+}, {
+  "id": 30,
+  "name": "Colas Holley",
+  "age": 85,
+  "isMarried": false,
+  "address": "86 Marquette Alley",
+  "department": "Training",
+  "salary": 4899198,
+  "avatar": "https://robohash.org/etundetemporibus.png?size=50x50&set=set1"
+}, {
+  "id": 31,
+  "name": "Adria Brockherst",
+  "age": 43,
+  "isMarried": false,
+  "address": "0701 Center Parkway",
+  "department": "Engineering",
+  "salary": 2108684,
+  "avatar": "https://robohash.org/cumquecupiditateex.png?size=50x50&set=set1"
+}, {
+  "id": 32,
+  "name": "Karly Mapes",
+  "age": 91,
+  "isMarried": true,
+  "address": "26746 Mesta Alley",
+  "department": "Services",
+  "salary": 1130365,
+  "avatar": "https://robohash.org/advoluptatibuscum.png?size=50x50&set=set1"
+}, {
+  "id": 33,
+  "name": "Tania Gundry",
+  "age": 88,
+  "isMarried": true,
+  "address": "06 Gina Junction",
+  "department": "Business Development",
+  "salary": 3445021,
+  "avatar": "https://robohash.org/aliquamfugitrerum.png?size=50x50&set=set1"
+}, {
+  "id": 34,
+  "name": "Gwenni Franckton",
+  "age": 94,
+  "isMarried": true,
+  "address": "11 Express Point",
+  "department": "Human Resources",
+  "salary": 1535574,
+  "avatar": "https://robohash.org/adipiscilaborumeum.png?size=50x50&set=set1"
+}, {
+  "id": 35,
+  "name": "Wynny O'Bradain",
+  "age": 63,
+  "isMarried": false,
+  "address": "97 Hauk Avenue",
+  "department": "Sales",
+  "salary": 2927749,
+  "avatar": "https://robohash.org/beataedoloremet.png?size=50x50&set=set1"
+}, {
+  "id": 36,
+  "name": "Cooper Simonazzi",
+  "age": 90,
+  "isMarried": true,
+  "address": "3 Weeping Birch Crossing",
+  "department": "Training",
+  "salary": 985307,
+  "avatar": "https://robohash.org/impeditillumaut.png?size=50x50&set=set1"
+}, {
+  "id": 37,
+  "name": "Kathryne Isworth",
+  "age": 34,
+  "isMarried": true,
+  "address": "0686 Chive Trail",
+  "department": "Training",
+  "salary": 1380128,
+  "avatar": "https://robohash.org/quaesitlibero.png?size=50x50&set=set1"
+}, {
+  "id": 38,
+  "name": "Enriqueta Dillinton",
+  "age": 78,
+  "isMarried": false,
+  "address": "71089 American Ash Lane",
+  "department": "Sales",
+  "salary": 694784,
+  "avatar": "https://robohash.org/maioresquiquasi.png?size=50x50&set=set1"
+}, {
+  "id": 39,
+  "name": "Levin Nickoll",
+  "age": 79,
+  "isMarried": false,
+  "address": "3 Arizona Terrace",
+  "department": "Product Management",
+  "salary": 4111463,
+  "avatar": "https://robohash.org/autcorporissequi.png?size=50x50&set=set1"
+}, {
+  "id": 40,
+  "name": "Em Cackett",
+  "age": 90,
+  "isMarried": false,
+  "address": "9 Eastlawn Park",
+  "department": "Product Management",
+  "salary": 3581426,
+  "avatar": "https://robohash.org/quaeratutdeserunt.png?size=50x50&set=set1"
+}, {
+  "id": 41,
+  "name": "Huntlee Guillond",
+  "age": 44,
+  "isMarried": false,
+  "address": "49 Clove Place",
+  "department": "Engineering",
+  "salary": 2575849,
+  "avatar": "https://robohash.org/voluptatevoluptasaliquam.png?size=50x50&set=set1"
+}, {
+  "id": 42,
+  "name": "Pate Paull",
+  "age": 75,
+  "isMarried": true,
+  "address": "471 8th Junction",
+  "department": "Human Resources",
+  "salary": 3883736,
+  "avatar": "https://robohash.org/hicinpossimus.png?size=50x50&set=set1"
+}, {
+  "id": 43,
+  "name": "Fernanda Train",
+  "age": 98,
+  "isMarried": true,
+  "address": "9660 Sutherland Street",
+  "department": "Services",
+  "salary": 282521,
+  "avatar": "https://robohash.org/quiaoccaecativoluptatem.png?size=50x50&set=set1"
+}, {
+  "id": 44,
+  "name": "Boniface Bendley",
+  "age": 98,
+  "isMarried": false,
+  "address": "48 Kipling Park",
+  "department": "Human Resources",
+  "salary": 3284458,
+  "avatar": "https://robohash.org/animivelitnon.png?size=50x50&set=set1"
+}, {
+  "id": 45,
+  "name": "Lynnea Durant",
+  "age": 63,
+  "isMarried": false,
+  "address": "2 Mariners Cove Road",
+  "department": "Research and Development",
+  "salary": 1830261,
+  "avatar": "https://robohash.org/etmodiin.png?size=50x50&set=set1"
+}, {
+  "id": 46,
+  "name": "Rusty Bride",
+  "age": 73,
+  "isMarried": false,
+  "address": "61016 Tennyson Court",
+  "department": "Services",
+  "salary": 4825993,
+  "avatar": "https://robohash.org/nobisfugaplaceat.png?size=50x50&set=set1"
+}, {
+  "id": 47,
+  "name": "Uta Bloxsum",
+  "age": 24,
+  "isMarried": false,
+  "address": "7 Clemons Drive",
+  "department": "Engineering",
+  "salary": 4689014,
+  "avatar": "https://robohash.org/idteneturvoluptas.png?size=50x50&set=set1"
+}, {
+  "id": 48,
+  "name": "Cordi Scorey",
+  "age": 92,
+  "isMarried": false,
+  "address": "80 Fisk Drive",
+  "department": "Research and Development",
+  "salary": 1159087,
+  "avatar": "https://robohash.org/architectoquiin.png?size=50x50&set=set1"
+}, {
+  "id": 49,
+  "name": "Jervis Pischof",
+  "age": 79,
+  "isMarried": true,
+  "address": "5 Summerview Drive",
+  "department": "Marketing",
+  "salary": 347152,
+  "avatar": "https://robohash.org/utquiminus.png?size=50x50&set=set1"
+}, {
+  "id": 50,
+  "name": "Sibel Smiths",
+  "age": 69,
+  "isMarried": false,
+  "address": "8759 Sugar Alley",
+  "department": "Sales",
+  "salary": 2119111,
+  "avatar": "https://robohash.org/voluptasinciduntdignissimos.png?size=50x50&set=set1"
+}]
 }
