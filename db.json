@@ -1,37 +1,96 @@
 {
     "todo":[
-        {
-            "id":1,
-            "task": "DSA sprint 2 contests",
-            "finished": "false",
-            "startTime":{
-                "time": "14:42",
-                "date": "03/12"
-            },
-            "finishTime":""
-        },
-        {
-            "id":2,
-            "task": "Finding indian sattelite dataset",
-            "finished": "true",
-            "startTime":{
-                "time": "14:42",
-                "date": "04/11"
-            },
-            "finishTime":{
-                "time": "23:42",
-                "date": "30/11"
-            }
-        },
-        {
-            "id":3,
-            "task": "Iron the formals",
-            "finished": "false",
-            "startTime":{
-                "time": "14:42",
-                "date": "03/12"
-            },
-            "finishTime":""
-        }
-    ]
+  {
+    "id": 1,
+    "task": "DSA sprint 2 contests",
+    "finished": "false",
+    "startTime": {
+      "time": "14:42",
+      "date": "03/12"
+    },
+    "finishTime": ""
+  },
+  {
+    "id": 2,
+    "task": "Finding indian sattelite dataset",
+    "finished": "true",
+    "startTime": {
+      "time": "14:42",
+      "date": "04/11"
+    },
+    "finishTime": {
+      "time": "23:42",
+      "date": "30/11"
+    }
+  },
+  {
+    "id": 3,
+    "task": "Go to movie",
+    "finished": true,
+    "startTime": {
+      "time": "14:42",
+      "date": "03/12"
+    },
+    "finishTime": {
+      "time": "18:40",
+      "date": "03/12"
+    }
+  },
+  {
+    "task": "plant roses",
+    "finished": false,
+    "startTime": {
+      "time": "18:42",
+      "date": "03/12"
+    },
+    "finishTime": "",
+    "id": 4
+  },
+  {
+    "task": "feed the dog",
+    "finished": true,
+    "startTime": {
+      "time": "18:42",
+      "date": "03/12"
+    },
+    "finishTime": {
+      "time": "18:43",
+      "date": "03/12"
+    },
+    "id": 5
+  },
+  {
+    "task": "Call Aditi ma'am",
+    "finished": false,
+    "startTime": {
+      "time": "18:57",
+      "date": "03/12"
+    },
+    "finishTime": "",
+    "id": 6
+  },
+  {
+    "task": "Buy grocerries",
+    "finished": false,
+    "startTime": {
+      "time": "18:57",
+      "date": "03/12"
+    },
+    "finishTime": "",
+    "id": 7
+  },
+  {
+    "task": "Book a ticket",
+    "finished": true,
+    "startTime": {
+      "time": "18:57",
+      "date": "03/12"
+    },
+    "finishTime": {
+      "time": "18:58",
+      "date": "03/12"
+    },
+    "id": 8
+  }
+]
 }
